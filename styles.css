@@ -276,7 +276,26 @@ body {
     /* height: 100%; */
 }
 
+.container__nine__text {
+    padding-top: 135px;
+}
+
+.container__nine__dummy__form input[type=text] {
+    border: none;
+    border-bottom: 7px solid #d9b1b3;
+
+    height: 5px;
+    width: 450px;
+    /* width: 200px; */
+}
+
+.container__nine__dummy__form {
+    text-align: center;
+}
+
 .container__nine__text > .p1 {
+    margin-top: 30px;
+    margin-bottom: 90px;
     text-align: center;
     color: black;
     font-style: italic;
